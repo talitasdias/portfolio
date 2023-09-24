@@ -70,7 +70,7 @@ body {
     border-radius: 50%;
     width: 176px;
     height: 176px;
-    background: black url(../imgs/profile-photo.jpg) no-repeat;
+    background: black url(../imgs/profile-photo.png) no-repeat;
     background-size: cover;
     transform: translateY(-170%);
 }
