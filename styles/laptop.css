@@ -1,0 +1,22 @@
+:root {
+    --color: #07D165;
+}
+
+.profile {
+    height: 90vh;
+}
+
+.profile > img {
+    display: none;
+}
+
+header {
+    display: block;
+    background-color: black;
+    height: 65px;
+    width: 100%;
+}
+
+header > img {
+    width: 70px;
+}

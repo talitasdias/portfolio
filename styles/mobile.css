@@ -33,6 +33,10 @@ body {
     background-size: cover;
 }
 
+header {
+    display: none;
+}
+
 .profile > img {
     width: 135px;
 }
